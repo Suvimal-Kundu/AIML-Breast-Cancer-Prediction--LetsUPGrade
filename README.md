@@ -8,7 +8,7 @@ The early diagnosis of BC can improve the prognosis and chance of survival signi
 
 Classification and data mining methods are an effective way to classify data. Especially in medical field, where those methods are widely used in diagnosis and analysis to make decisions.
 
-#DATA PREPARATION
+# DATA PREPARATION
 
 We will use the  Machine Learning Repository for breast cancer dataset.
 
